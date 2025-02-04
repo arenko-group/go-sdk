@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.15.0](https://github.com/open-feature/go-sdk/compare/v1.14.1...v1.15.0) (2025-02-04)
+
+
+### 🐛 Bug Fixes
+
+* **deps:** update module golang.org/x/text to v0.22.0 ([#315](https://github.com/open-feature/go-sdk/issues/315)) ([06e9304](https://github.com/open-feature/go-sdk/commit/06e93041fc916d607b42f295498915a6ce5993e1))
+
+
+### ✨ New Features
+
+* loosen test instance interface to support various test frameworks ([#317](https://github.com/open-feature/go-sdk/issues/317)) ([ce4920a](https://github.com/open-feature/go-sdk/commit/ce4920ad0dde1023da06082d81cb3b682b133c7c))
+
 ## [1.14.1](https://github.com/open-feature/go-sdk/compare/v1.14.0...v1.14.1) (2025-01-21)
 
 
